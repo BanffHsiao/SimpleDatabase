@@ -13,7 +13,7 @@ cd SimpleDatabase
 mysql -u root -p
 ```
 
-If the command above face problem such as "command mysql not found", enter this command
+If the command above face problem such as "command not found: mysql", enter this command
 
 ```
 export PATH=${PATH}:/usr/local/mysql/bin/
