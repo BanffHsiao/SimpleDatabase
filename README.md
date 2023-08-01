@@ -25,4 +25,4 @@ php -S 127.0.0.1:8080
 ```
 (8080 is changable)
 
-open a browser and go to localhost, and you're in~
+open http://localhost:8080, and you're in~
